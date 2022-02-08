@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+chapter_3/data/yelp/raw_test.csv
+.gitignore
+chapter_3/data/yelp/reviews_with_splits_lite.csv
+chapter_3/data/yelp/raw_train.csv
