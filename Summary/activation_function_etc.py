@@ -92,7 +92,7 @@ print(loss)
 ###
 # optimizer
 ###
-from Summary.perceptron import *
+from chapter_3.perceptron import *
 import numpy as np
 
 LEFT_CENTER = (3, 3)
