@@ -131,3 +131,5 @@ chapter_3/data/yelp/raw_test.csv
 .gitignore
 chapter_3/data/yelp/reviews_with_splits_lite.csv
 chapter_3/data/yelp/raw_train.csv
+chapter_4/4_2_mlp_surnames/data/surnames/surnames_with_splits.csv
+chapter_4/4_2_mlp_surnames/data/surnames/surnames.csv
